@@ -31,7 +31,7 @@
 <pre><code>sudo nmap -sV -O 10.0.2.4</code></pre>
 
 <p align="center">
-    <img src="data:image/png;base64,iV">
+    <img src="img/Screenshot 2024-06-24 184306.png">
 
 
 <h3>Launching Metasploit on Kali Linux</h3>
