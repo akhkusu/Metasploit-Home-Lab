@@ -82,11 +82,7 @@ exploit
     <img src="img/Screenshot 2024-06-24 190945.png"/>
 </p>
 
-<h2>Additional Steps</h2>
-<ul>
-    <li><b>Enumerating Services and Vulnerabilities</b>: Use Metasploit's auxiliary modules to scan and identify services running on the target.</li>
-    <li><b>Post-exploitation</b>: Gather information and maintain access on the compromised system.</li>
-</ul>
+
 
 </body>
 </html>
