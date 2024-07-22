@@ -42,7 +42,7 @@
 <pre><code>msfconsole</code></pre>
 
 <p align="center">
-    <img src="data:image/png;base64,{{screenshot1_base64}}" alt="Metasploit Console"/>
+    <img src="img/Screenshot 2024-06-24 185156.png"/>
 </p>
 
 <h3>Exploiting Vulnerabilities</h3>
@@ -58,7 +58,9 @@ exploit
 </code></pre>
 
 <p align="center">
-    <img src="data:image/png;base64,{{screenshot2_base64}}" alt="vsftpd Exploit"/>
+    <img src="img/Screenshot 2024-06-24 185515.png"/>
+<p align="center">
+    <img src="img/Screenshot 2024-06-24 185530.png"/>
 </p>
 
 <ol start="2">
@@ -77,7 +79,7 @@ exploit
 </code></pre>
 
 <p align="center">
-    <img src="data:image/png;base64,{{screenshot3_base64}}" alt="Directory Scanner and PHP CGI Injection"/>
+    <img src="img/Screenshot 2024-06-24 190945.png"/>
 </p>
 
 <h2>Additional Steps</h2>
